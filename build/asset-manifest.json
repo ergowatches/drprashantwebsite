@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drprashantwebsite/static/css/main.8ea4669b.css",
+    "main.js": "/drprashantwebsite/static/js/main.c196b6c5.js",
+    "index.html": "/drprashantwebsite/index.html",
+    "main.8ea4669b.css.map": "/drprashantwebsite/static/css/main.8ea4669b.css.map",
+    "main.c196b6c5.js.map": "/drprashantwebsite/static/js/main.c196b6c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ea4669b.css",
+    "static/js/main.c196b6c5.js"
+  ]
+}
